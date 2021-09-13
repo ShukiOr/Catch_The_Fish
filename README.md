@@ -4,3 +4,5 @@
 ### Final project advanced sql techniques
 * Creating a game with sql code 
 * updated Database based on user participation 
+
+#SQL #advancedsql #DDL #DML #TSQL #Procedures #SQLprocedures
